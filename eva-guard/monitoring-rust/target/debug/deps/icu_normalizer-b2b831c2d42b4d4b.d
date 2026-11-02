@@ -1,0 +1,10 @@
+/home/mohamed-amine/Documents/EVA-Guard/EVA-Guard-mariem/eva-guard/monitoring-rust/target/debug/deps/icu_normalizer-b2b831c2d42b4d4b.d: /home/mohamed-amine/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.4.0/src/lib.rs /home/mohamed-amine/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.4.0/src/properties.rs /home/mohamed-amine/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.4.0/src/provider.rs /home/mohamed-amine/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.4.0/src/uts46.rs
+
+/home/mohamed-amine/Documents/EVA-Guard/EVA-Guard-mariem/eva-guard/monitoring-rust/target/debug/deps/libicu_normalizer-b2b831c2d42b4d4b.rlib: /home/mohamed-amine/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.4.0/src/lib.rs /home/mohamed-amine/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.4.0/src/properties.rs /home/mohamed-amine/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.4.0/src/provider.rs /home/mohamed-amine/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.4.0/src/uts46.rs
+
+/home/mohamed-amine/Documents/EVA-Guard/EVA-Guard-mariem/eva-guard/monitoring-rust/target/debug/deps/libicu_normalizer-b2b831c2d42b4d4b.rmeta: /home/mohamed-amine/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.4.0/src/lib.rs /home/mohamed-amine/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.4.0/src/properties.rs /home/mohamed-amine/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.4.0/src/provider.rs /home/mohamed-amine/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.4.0/src/uts46.rs
+
+/home/mohamed-amine/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.4.0/src/lib.rs:
+/home/mohamed-amine/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.4.0/src/properties.rs:
+/home/mohamed-amine/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.4.0/src/provider.rs:
+/home/mohamed-amine/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-2.4.0/src/uts46.rs:

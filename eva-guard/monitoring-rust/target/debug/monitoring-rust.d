@@ -1,0 +1,1 @@
+/home/mohamed-amine/Documents/EVA-Guard/EVA-Guard-mariem/eva-guard/monitoring-rust/target/debug/monitoring-rust: /home/mohamed-amine/Documents/EVA-Guard/EVA-Guard-mariem/eva-guard/monitoring-rust/src/main.rs
