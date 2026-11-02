@@ -1,0 +1,25 @@
+ROOT=$(git rev-parse --show-toplevel)
+
+cat >> "$ROOT/.gitignore" << 'EOF'
+
+# Rust build artifacts
+**/target/
+
+# Runtime observations
+**/observations.jsonl
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+EOF
